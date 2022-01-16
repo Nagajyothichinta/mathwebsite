@@ -226,7 +226,7 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![output](./math.png)
+![output](https://github.com/Nagajyothichinta/mathwebsite/blob/76912f48eab33793bcfce39b3e8187cc240a4bf3/math.PNG)
 
 ## Result:
 
